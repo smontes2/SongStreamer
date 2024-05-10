@@ -18,10 +18,10 @@ The biggest issue faced in creating this project was having all of the data stru
 
 ---
 ### Time Complexities
-**song** and **show_listen_time** work in **O(N)** time
-***remove** works in **O(logN)** - remove may not exactly meet this requirement in the heap
-**favorite** works in **O(logN)**
-**listen** works in **O(logN)**
+* **song** and **show_listen_time** work in **O(N)** time
+* ***remove** works in **O(logN)** - remove may not exactly meet this requirement in the heap
+* **favorite** works in **O(logN)**
+* **listen** works in **O(logN)**
 
 ---
 ### How to run
